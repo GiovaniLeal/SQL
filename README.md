@@ -6,5 +6,5 @@
 
 **Conteúdo desse repositório**
 
-- CRUD - Operações básicas em SQL utilizando projeto de agenda
+- [CRUD](https://github.com/GiovaniLeal/Banco-de-dados/blob/main/CRUD.sql) - Operações básicas em SQL utilizando projeto de agenda.
 
